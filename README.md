@@ -1,5 +1,5 @@
-🧭 Ontology Builder + Vision: Transforming Text and Images into Interactive Knowledge
-🔍 Overview
+# 🧭 Ontology Builder + Vision: Transforming Text and Images into Interactive Knowledge
+# 🔍 Overview
 
 The Ontology Builder + Vision App is a next-generation AI tool designed to convert ordinary text and images into structured, meaningful knowledge.
 It blends Natural Language Processing (NLP), Vision-Language understanding, and Graph-Based Ontology Generation to help researchers, analysts, and intelligent agents understand complex information systems.
@@ -14,7 +14,7 @@ Build a knowledge graph (ontology) that shows how ideas are connected.
 
 Provide a JSON-based knowledge structure ready for reuse by intelligent agents, research databases, or interactive essay systems.
 
-🧩 Why Ontology Matters
+## 🧩 Why Ontology Matters
 
 An ontology is more than a list of keywords — it is a living map of knowledge.
 It defines how ideas, entities, and actions relate to one another, allowing both humans and AI agents to:
@@ -29,7 +29,7 @@ Transform static essays into interactive learning experiences.
 
 By structuring your essay or research through an ontology, you turn it from a simple narrative into a knowledge network — something that agents can query, visualize, and expand dynamically.
 
-💡 How to Use the App
+## 💡 How to Use the App
 
 Open the Interface
 Launch the app with:
@@ -69,7 +69,7 @@ Use it in semantic search or research summarization.
 
 Integrate it into knowledge management systems or concept visualizations.
 
-⚙️ Behind the Scenes
+## ⚙️ Behind the Scenes
 
 The app uses a carefully balanced combination of AI technologies:
 
@@ -84,7 +84,7 @@ LLaMA 3.1 (Text) and LLaVA (Vision) via Ollama for local, private reasoning and 
 NetworkX for building and analyzing the ontology graph.
 All processing runs locally, ensuring full privacy — no cloud uploads, no data leaks.
 
-🤖 How Agents Benefit
+## 🤖 How Agents Benefit
 
 Intelligent agents (chatbots, assistants, or autonomous systems) can use these generated ontologies to:
 
@@ -106,7 +106,7 @@ Compare multiple sources, or
 
 Generate interactive essays that evolve through user dialogue.
 
-✨ Educational and Research Impact
+## ✨ Educational and Research Impact
 
 This app bridges traditional knowledge writing and AI-driven knowledge modeling.
 By merging essays, visuals, and semantic graphs, it helps students, educators, and researchers:
@@ -134,7 +134,7 @@ Each ontology file includes:
 
 Agents can read this JSON and build a knowledge web or interactive essay based on the structure.
 
-🌿 Conclusion
+## 🌿 Conclusion
 
 The Ontology Builder + Vision App transforms how we interact with information — turning essays into knowledge maps, images into semantic anchors, and ideas into living systems of understanding.
 Whether you’re an academic, developer, or digital researcher, this tool empowers you to create, analyze, and teach through structured knowledge.
