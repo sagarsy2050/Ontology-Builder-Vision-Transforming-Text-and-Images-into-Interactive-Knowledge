@@ -1,0 +1,278 @@
+{
+  "concepts": [
+    "ayurveda",
+    "ayurveda teaches",
+    "ayurveda sanskrit",
+    "panchamahabhutas ayurveda",
+    "sanskrit ayus",
+    "ayus life",
+    "sanskrit",
+    "circulation akasha",
+    "elements panchamahabhutas",
+    "life veda",
+    "ayus",
+    "natural healing",
+    "metabolism vayu",
+    "veda knowledge",
+    "science life",
+    "science means",
+    "means science",
+    "fundamental elements",
+    "akasha ether",
+    "human body",
+    "health",
+    "panchamahabhutas",
+    "healing",
+    "body mind",
+    "teaches universe",
+    "earth",
+    "vayu air",
+    "vayu",
+    "body composed",
+    "great elements"
+  ],
+  "relations": [
+    {
+      "subject": "Ayurveda ( from Sanskrit : Ayus = life , Veda = knowledge or science )",
+      "relation": "mean",
+      "object": "the science of life",
+      "sentence": "Ayurveda (from Sanskrit: Ayus = life, Veda = knowledge or science) means \u201cthe science of life.\u201d\n",
+      "sentiment": "neutral",
+      "polarity_score": 0.0,
+      "confidence": 0.0
+    },
+    {
+      "subject": "It",
+      "relation": "be",
+      "object": "one of the world \u2019s oldest systems of natural healing",
+      "sentence": "It is one of the world\u2019s oldest systems of natural healing, emphasizing balance between body, mind, and spirit to promote health and prevent disease.\n\n",
+      "sentiment": "neutral",
+      "polarity_score": 0.0,
+      "confidence": 0.0
+    },
+    {
+      "subject": "The Five Great Elements ( Panchamahabhutas ) \n\n Ayurveda",
+      "relation": "teach",
+      "object": ": [ No caption ]",
+      "sentence": "The Five Great Elements (Panchamahabhutas)\n\nAyurveda teaches that everything in the universe, including the human body, is composed of five fundamental elements:\n\nPrithvi (Earth) \u2013 stability and structure\n\nApas (Water) \u2013 cohesion and fluidity\n\nTejas (Fire) \u2013 transformation and metabolism\n\nVayu (Air) \u2013 movement and circulation\n\nAkasha (Ether/Space) \u2013 expansiveness and connectivity\n\n[Image Description]: [No caption]",
+      "sentiment": "neutral",
+      "polarity_score": 0.0,
+      "confidence": 0.0
+    }
+  ],
+  "hierarchy": [
+    {
+      "concept": "ayurveda",
+      "related": [
+        "ayurveda teaches",
+        "ayurveda sanskrit",
+        "panchamahabhutas ayurveda",
+        "sanskrit ayus",
+        "ayus life",
+        "ayus"
+      ]
+    },
+    {
+      "concept": "ayurveda teaches",
+      "related": [
+        "ayurveda",
+        "ayurveda sanskrit",
+        "panchamahabhutas ayurveda",
+        "sanskrit ayus"
+      ]
+    },
+    {
+      "concept": "ayurveda sanskrit",
+      "related": [
+        "ayurveda",
+        "ayurveda teaches",
+        "panchamahabhutas ayurveda",
+        "sanskrit ayus",
+        "sanskrit"
+      ]
+    },
+    {
+      "concept": "panchamahabhutas ayurveda",
+      "related": [
+        "ayurveda",
+        "ayurveda teaches",
+        "ayurveda sanskrit",
+        "elements panchamahabhutas",
+        "panchamahabhutas"
+      ]
+    },
+    {
+      "concept": "sanskrit ayus",
+      "related": [
+        "ayurveda",
+        "ayurveda teaches",
+        "ayurveda sanskrit",
+        "ayus life",
+        "sanskrit",
+        "ayus"
+      ]
+    },
+    {
+      "concept": "ayus life",
+      "related": [
+        "ayurveda",
+        "sanskrit ayus",
+        "ayus"
+      ]
+    },
+    {
+      "concept": "sanskrit",
+      "related": [
+        "ayurveda sanskrit",
+        "sanskrit ayus"
+      ]
+    },
+    {
+      "concept": "circulation akasha",
+      "related": [
+        "akasha ether"
+      ]
+    },
+    {
+      "concept": "elements panchamahabhutas",
+      "related": [
+        "panchamahabhutas ayurveda",
+        "panchamahabhutas"
+      ]
+    },
+    {
+      "concept": "life veda",
+      "related": [
+        "veda knowledge"
+      ]
+    },
+    {
+      "concept": "ayus",
+      "related": [
+        "ayurveda",
+        "sanskrit ayus",
+        "ayus life"
+      ]
+    },
+    {
+      "concept": "natural healing",
+      "related": [
+        "healing"
+      ]
+    },
+    {
+      "concept": "metabolism vayu",
+      "related": [
+        "vayu air",
+        "vayu"
+      ]
+    },
+    {
+      "concept": "veda knowledge",
+      "related": [
+        "life veda"
+      ]
+    },
+    {
+      "concept": "science life",
+      "related": [
+        "science means",
+        "means science"
+      ]
+    },
+    {
+      "concept": "science means",
+      "related": [
+        "science life",
+        "means science"
+      ]
+    },
+    {
+      "concept": "means science",
+      "related": [
+        "science life",
+        "science means"
+      ]
+    },
+    {
+      "concept": "fundamental elements",
+      "related": []
+    },
+    {
+      "concept": "akasha ether",
+      "related": [
+        "circulation akasha"
+      ]
+    },
+    {
+      "concept": "human body",
+      "related": [
+        "body mind",
+        "body composed"
+      ]
+    },
+    {
+      "concept": "health",
+      "related": []
+    },
+    {
+      "concept": "panchamahabhutas",
+      "related": [
+        "panchamahabhutas ayurveda",
+        "elements panchamahabhutas"
+      ]
+    },
+    {
+      "concept": "healing",
+      "related": [
+        "natural healing"
+      ]
+    },
+    {
+      "concept": "body mind",
+      "related": [
+        "human body"
+      ]
+    },
+    {
+      "concept": "teaches universe",
+      "related": []
+    },
+    {
+      "concept": "earth",
+      "related": []
+    },
+    {
+      "concept": "vayu air",
+      "related": [
+        "metabolism vayu",
+        "vayu"
+      ]
+    },
+    {
+      "concept": "vayu",
+      "related": [
+        "metabolism vayu",
+        "vayu air"
+      ]
+    },
+    {
+      "concept": "body composed",
+      "related": [
+        "human body"
+      ]
+    },
+    {
+      "concept": "great elements",
+      "related": []
+    }
+  ],
+  "summary": {
+    "concepts": 30,
+    "relations": 3,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 3,
+    "graph_edges": 30
+  }
+}

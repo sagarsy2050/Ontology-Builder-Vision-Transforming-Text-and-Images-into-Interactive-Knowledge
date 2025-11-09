@@ -1,0 +1,281 @@
+{
+    "concepts": [
+        "quantum computing",
+        "quantum advantage",
+        "quantum algorithms",
+        "qubits superposition",
+        "uses qubits",
+        "qubits instead",
+        "qubits",
+        "quantum",
+        "quantum systems",
+        "iterations quantum",
+        "bits qubits",
+        "parallelism quantum",
+        "variational quantum",
+        "superposition enables",
+        "superposition",
+        "computing revolutionary",
+        "computing",
+        "decoherence variational",
+        "noise decoherence",
+        "instead bits",
+        "decoherence",
+        "world applications",
+        "advantage",
+        "algorithms",
+        "variational",
+        "advantage fully",
+        "massive parallelism",
+        "systems extremely",
+        "enables massive",
+        "sensitive noise"
+    ],
+    "relations": [
+        {
+            "subject": "Quantum computing",
+            "relation": "be",
+            "object": "a revolutionary technology that uses qubits instead of bits",
+            "sentence": "Quantum computing is a revolutionary technology that uses qubits instead of bits.",
+            "sentiment": "neutral",
+            "polarity_score": 0.0,
+            "confidence": 0.0
+        }
+    ],
+    "hierarchy": [
+        {
+            "concept": "quantum computing",
+            "related_concepts": [
+                "quantum algorithms",
+                "qubits",
+                "quantum",
+                "quantum systems",
+                "iterations quantum"
+            ]
+        },
+        {
+            "concept": "quantum advantage",
+            "related_concepts": [
+                "quantum",
+                "advantage"
+            ]
+        },
+        {
+            "concept": "quantum algorithms",
+            "related_concepts": [
+                "quantum computing",
+                "quantum",
+                "quantum systems",
+                "iterations quantum"
+            ]
+        },
+        {
+            "concept": "qubits superposition",
+            "related_concepts": [
+                "uses qubits",
+                "qubits instead",
+                "qubits",
+                "quantum",
+                "bits qubits",
+                "superposition enables",
+                "superposition"
+            ]
+        },
+        {
+            "concept": "uses qubits",
+            "related_concepts": [
+                "qubits superposition",
+                "qubits instead",
+                "qubits",
+                "bits qubits"
+            ]
+        },
+        {
+            "concept": "qubits instead",
+            "related_concepts": [
+                "qubits superposition",
+                "uses qubits",
+                "qubits",
+                "bits qubits"
+            ]
+        },
+        {
+            "concept": "qubits",
+            "related_concepts": [
+                "quantum computing",
+                "qubits superposition",
+                "uses qubits",
+                "qubits instead",
+                "quantum",
+                "bits qubits"
+            ]
+        },
+        {
+            "concept": "quantum",
+            "related_concepts": [
+                "quantum computing",
+                "quantum advantage",
+                "quantum algorithms",
+                "qubits superposition",
+                "qubits",
+                "quantum systems",
+                "iterations quantum",
+                "parallelism quantum"
+            ]
+        },
+        {
+            "concept": "quantum systems",
+            "related_concepts": [
+                "quantum computing",
+                "quantum algorithms",
+                "quantum",
+                "iterations quantum"
+            ]
+        },
+        {
+            "concept": "iterations quantum",
+            "related_concepts": [
+                "quantum computing",
+                "quantum algorithms",
+                "quantum",
+                "quantum systems"
+            ]
+        },
+        {
+            "concept": "bits qubits",
+            "related_concepts": [
+                "qubits superposition",
+                "uses qubits",
+                "qubits instead",
+                "qubits",
+                "instead bits"
+            ]
+        },
+        {
+            "concept": "parallelism quantum",
+            "related_concepts": [
+                "quantum",
+                "massive parallelism"
+            ]
+        },
+        {
+            "concept": "variational quantum",
+            "related_concepts": [
+                "decoherence variational",
+                "variational"
+            ]
+        },
+        {
+            "concept": "superposition enables",
+            "related_concepts": [
+                "qubits superposition",
+                "superposition"
+            ]
+        },
+        {
+            "concept": "superposition",
+            "related_concepts": [
+                "qubits superposition",
+                "superposition enables"
+            ]
+        },
+        {
+            "concept": "computing revolutionary",
+            "related_concepts": [
+                "computing"
+            ]
+        },
+        {
+            "concept": "computing",
+            "related_concepts": [
+                "computing revolutionary",
+                "algorithms"
+            ]
+        },
+        {
+            "concept": "decoherence variational",
+            "related_concepts": [
+                "variational quantum",
+                "noise decoherence",
+                "decoherence",
+                "variational"
+            ]
+        },
+        {
+            "concept": "noise decoherence",
+            "related_concepts": [
+                "decoherence variational",
+                "decoherence"
+            ]
+        },
+        {
+            "concept": "instead bits",
+            "related_concepts": [
+                "bits qubits"
+            ]
+        },
+        {
+            "concept": "decoherence",
+            "related_concepts": [
+                "decoherence variational",
+                "noise decoherence"
+            ]
+        },
+        {
+            "concept": "world applications",
+            "related_concepts": []
+        },
+        {
+            "concept": "advantage",
+            "related_concepts": [
+                "quantum advantage",
+                "advantage fully"
+            ]
+        },
+        {
+            "concept": "algorithms",
+            "related_concepts": [
+                "computing"
+            ]
+        },
+        {
+            "concept": "variational",
+            "related_concepts": [
+                "variational quantum",
+                "decoherence variational"
+            ]
+        },
+        {
+            "concept": "advantage fully",
+            "related_concepts": [
+                "advantage"
+            ]
+        },
+        {
+            "concept": "massive parallelism",
+            "related_concepts": [
+                "parallelism quantum"
+            ]
+        },
+        {
+            "concept": "systems extremely",
+            "related_concepts": []
+        },
+        {
+            "concept": "enables massive",
+            "related_concepts": []
+        },
+        {
+            "concept": "sensitive noise",
+            "related_concepts": []
+        }
+    ],
+    "summary": {
+        "total_concepts": 30,
+        "total_relations": 1,
+        "positive_triples": 0,
+        "negative_triples": 0,
+        "neutral_triples": 1,
+        "graph_edges": 40
+    }
+}
